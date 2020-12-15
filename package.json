@@ -1,0 +1,7 @@
+{
+  "name": "abiturma-cookie-control",
+  "version": "1.0.0",
+  "dependencies": {
+    "css-vars-ponyfill": "^2.4.2"
+  }
+}
